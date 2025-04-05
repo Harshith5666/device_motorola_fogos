@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "NfcOverlayFogos",
+    product_specific: true,
+}
