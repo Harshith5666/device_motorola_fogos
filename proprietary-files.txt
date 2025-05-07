@@ -1,4 +1,4 @@
-# Unpinned blobs from fogos_g-user 15 V1UG35H.75-14 a4cca release-keys
+# Unpinned blobs from fogos_g-user 11 U1UGS34.23-110-23-2 7dcf6d release-keys
 
 # ACDB
 vendor/etc/acdbdata/Bluetooth_cal.acdb
@@ -222,11 +222,12 @@ vendor/lib64/com.qti.feature2.serializer.so
 vendor/lib64/com.qti.feature2.swmf.so
 
 # Camera - Motorola
-vendor/etc/init/motorola.hardware.camera.imgtuner@1.0-service.rc
-vendor/lib64/hw/motorola.hardware.camera.imgtuner@1.0-impl.so
+vendor/etc/init/motorola.hardware.camera.imgtuner@2.0-service.rc
+vendor/lib64/hw/motorola.hardware.camera.imgtuner@2.0-impl.so
 vendor/lib64/motorola.hardware.camera.desktop@1.0.so
 vendor/lib64/motorola.hardware.camera.desktop@2.0.so
 vendor/lib64/motorola.hardware.camera.imgtuner@1.0.so
+vendor/lib64/motorola.hardware.camera.imgtuner@2.0.so
 
 # Camera - sensor
 vendor/lib64/camera/com.qti.flash.aw36514.so
