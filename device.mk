@@ -27,7 +27,6 @@ PRODUCT_AAPT_PREBUILT_DPI := xxxhdpi xxhdpi xhdpi hdpi
 # Resource Overlays
 PRODUCT_PACKAGES += \
     FrameworksResFogos \
-    FrameworksResXT2363-8 \
     NfcOverlayFogos \
     SettingsOverlayXT2363-1 \
     SettingsOverlayXT2363-2 \
